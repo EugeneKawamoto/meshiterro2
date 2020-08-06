@@ -67,3 +67,6 @@ gem 'devise'
 #add image & resize
 gem "refile", require: "refile/rails", github: 'manfe/refile'
 gem "refile-mini_magick"
+
+#pageing
+gem 'kaminari','~> 1.2.1'
